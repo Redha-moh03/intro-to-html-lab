@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(78, 78, 78);
+    border: 3px rgb(98, 97, 97) solid;
+}
+img { display: block; margin: 0 auto; }
+.color {
+    color: white;
+}
+.text {
+    text-align: center;
+}
+.foot {
+    color: green;
+}
